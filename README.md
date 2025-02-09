@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/soykerz" target="blank"><img src="https://img.shields.io/twitter/follow/soykerz?logo=twitter&style=for-the-badge" alt="soykerz" /></a> </p>
 
-- 🔭 I’m currently working on [OldiesRP](https://x.com/OldiesRP)
+- 🔭 I’m currently working on [FronterasRP](https://x.com/FTRPV)
 
 - 🌱 I’m currently learning **Lua & JavaScript**
 
 - 📫 How to reach me **https://x.com/SoyKeRz**
 
-- ⚡ Fun fact **I speak 3 languages :)**
+- ⚡ Fun fact **I speak 3 different languages :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
