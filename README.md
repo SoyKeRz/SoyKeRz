@@ -24,6 +24,4 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soykerz" alt="soykerz" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soykerz&show_icons=true&locale=en&layout=compact" alt="soykerz" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=SoyKeRz&theme=darkhub" alt="soykerz" /></a> </p>
