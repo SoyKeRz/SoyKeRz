@@ -24,4 +24,6 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=SoyKeRz&theme=juicyfresh" alt="soykerz" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=SoyKeRz&theme=juicyfresh" alt="soykerz" /></a> </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.zcy.dev/api?username=SoyKeRz&show_icons=true&theme=dark&layout=compact" alt="soykerz" /></p>
