@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/soykerz" target="blank"><img src="https://img.shields.io/twitter/follow/soykerz?logo=twitter&style=for-the-badge" alt="soykerz" /></a> </p>
 
-- 🔭 I’m currently working on [FronterasRP](https://x.com/FTRPV)
+- 🔭 I’m currently working on [GTARank](https://gtarank.com)
 
 - 🌱 I’m currently learning **Lua & JavaScript**
 
